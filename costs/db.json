@@ -1,262 +1,29 @@
 {
   "projects": [
     {
+      "name": "Teste 1",
+      "budget": "10000",
+      "category": {
+        "id": "1",
+        "name": "Desenvolvimento"
+      },
       "cost": 0,
       "services": [],
       "id": 1
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 7
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 8
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 9
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 10
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 11
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 12
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 13
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 14
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 15
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 16
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 17
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 18
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 19
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 20
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 21
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 22
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 23
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 24
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 25
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 26
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 27
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 28
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 29
-    },
-    {
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "name": "hyuri",
-      "budget": "9090",
-      "cost": 0,
-      "services": [],
-      "id": 30
-    },
-    {
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "name": "hyuri",
-      "budget": "9090",
-      "cost": 0,
-      "services": [],
-      "id": 31
-    },
-    {
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "name": "hyuri",
-      "budget": "9090",
-      "cost": 0,
-      "services": [],
-      "id": 32
-    },
-    {
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "name": "hyuri",
-      "budget": "9090",
-      "cost": 0,
-      "services": [],
-      "id": 33
-    },
-    {
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "name": "hyuri",
-      "budget": "9090",
-      "cost": 0,
-      "services": [],
-      "id": 34
-    },
-    {
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "name": "hyuri",
-      "budget": "9090",
-      "cost": 0,
-      "services": [],
-      "id": 35
-    },
-    {
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "name": "teste",
-      "budget": "9090",
-      "cost": 0,
-      "services": [],
-      "id": 36
-    },
-    {
-      "name": "teste location",
-      "budget": "50000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 37
-    },
-    {
-      "name": "Projeto de Teste 1",
-      "budget": "15000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 38
     }
   ],
   "categories": [
     {
       "id": 1,
-      "name": "Infra"
-    },
-    {
-      "id": 2,
       "name": "Desenvolvimento"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Design"
+    },
+    {
+      "id": 3,
+      "name": "Infra"
     },
     {
       "id": 4,
