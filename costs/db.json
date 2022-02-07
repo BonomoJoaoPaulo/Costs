@@ -221,6 +221,28 @@
       "cost": 0,
       "services": [],
       "id": 36
+    },
+    {
+      "name": "teste location",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 37
+    },
+    {
+      "name": "Projeto de Teste 1",
+      "budget": "15000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 38
     }
   ],
   "categories": [
