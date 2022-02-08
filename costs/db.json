@@ -51,8 +51,15 @@
         "id": "3",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 50000,
+      "services": [
+        {
+          "name": "Pagamento da Equipe",
+          "cost": "50000",
+          "description": "Valor usado para pagar a equipe responsável pelo projeto.",
+          "id": "30f2fb4d-47d5-4d3e-8ae8-deec5bd37593"
+        }
+      ],
       "id": 5
     }
   ],
