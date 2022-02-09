@@ -51,21 +51,8 @@
         "id": "3",
         "name": "Infra"
       },
-      "cost": 53000,
-      "services": [
-        {
-          "name": "Pagamento da Equipe",
-          "cost": "50000",
-          "description": "Valor usado para pagar a equipe responsável pelo projeto.",
-          "id": "30f2fb4d-47d5-4d3e-8ae8-deec5bd37593"
-        },
-        {
-          "name": "Contratar Engenheiro de Software",
-          "cost": "3000",
-          "description": "Contratar outro membro pro squad.",
-          "id": "930ee7cf-fd55-4b31-ade8-3a101747cd7b"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 5
     }
   ],
