@@ -1,3 +1,8 @@
+// Esse módulo contém códigos do Curso React
+// do canal no Youtube "Matheus Battisti"
+// Playlist do curso:
+// https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
+
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
 import Home from './components/pages/Home'

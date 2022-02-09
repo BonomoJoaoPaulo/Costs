@@ -1,3 +1,8 @@
+// Esse módulo contém códigos do Curso React
+// do canal no Youtube "Matheus Battisti"
+// Playlist do curso:
+// https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
+
 import styles from './Input.module.css'
 
 function Input({type, text, name, placeholder, handleOnChange, value}) {

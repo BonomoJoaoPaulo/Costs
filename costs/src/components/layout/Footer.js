@@ -1,3 +1,8 @@
+// Esse módulo contém códigos do Curso React
+// do canal no Youtube "Matheus Battisti"
+// Playlist do curso:
+// https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
+
 import {FaFacebook, FaInstagram, FaLinkedin} from 'react-icons/fa'
 import styles from './Footer.module.css'
 
